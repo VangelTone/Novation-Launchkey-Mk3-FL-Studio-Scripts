@@ -1,9 +1,16 @@
 # Main File
 # Name=Novation Launchkey49 Mk3
-import transport
+
 import midi
+import playlist
+import channels
 import mixer
+import patterns
+import ui
+import transport
+import device
 import general
+# import plugins only available in version 8 and up
 
 # Below are the variables which can be changed
 play_button = 115
