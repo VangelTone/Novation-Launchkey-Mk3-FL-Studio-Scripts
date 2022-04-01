@@ -1,4 +1,5 @@
 # Main File
+# Name=Novation Launchkey49 Mk3
 import transport
 import midi
 import mixer
